@@ -24,3 +24,16 @@ frontend
 docker compose up -d
 
 ```
+
+---
+
+## Comando via Docker Hub:
+
+```javascript
+docker push mrcoosv/project-docker-frontend:tagname
+
+```
+
+## Link do deploy na Vercel:
+
+https://project-docker-frontend.vercel.app
