@@ -22,7 +22,6 @@ frontend
 
 ```javascript
 docker compose up -d
-
 ```
 
 ---
